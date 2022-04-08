@@ -5,11 +5,11 @@
 * Return: Always 0 (Success/currect)
 */
 char alphabet;
-for(alphabet = 'a';alphabet <= 'z';alphabet++)
+for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-outchar(alphabet);
+putchar(alphabet);
 }
-outchar('\n');
+putchar('\n');
 
 return (0);
 
