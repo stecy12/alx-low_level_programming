@@ -7,12 +7,12 @@
 
 int main(void)
 {
-int digit;
-for (digit = 0; digit < 10; digit++)
+int n;
+for (n = 0; n < 10; n++)
 {
-printf("%digit", digit);
+printf("%n", n);
 }
-printf('\n');
+printf("\n");
 
 return (0);
 }
