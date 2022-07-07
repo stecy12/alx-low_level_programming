@@ -1,5 +1,3 @@
-
-
 #include "lists.h"
 /**
  * free_dlistint - free a all double linked list.
